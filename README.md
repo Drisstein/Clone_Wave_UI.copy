@@ -6,7 +6,7 @@ Réalisation de l'interface de l'application mobile Wave CI avec Flutter.
 
 1- Télécharger le code source
 
-2- Exécuter dans la console flutter pub get
+2- Exécuter dans la console: flutter pub get
 
 3- Exécuter l'application !
 
